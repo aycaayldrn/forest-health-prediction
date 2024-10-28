@@ -163,5 +163,4 @@ cython_debug/
 
 # Database configuration
 data_cleaning/config.json
-config.env
 
