@@ -1,4 +1,4 @@
-# Forest Health Data Cleaning and Standardization
+# Forest Health Data Cleaning, Standardization and Model Training
 
 This project focuses on preparing a dataset related to forest health monitoring. The dataset sourced from Kaggle's Forest Health and Ecological Diversity dataset. 
 
