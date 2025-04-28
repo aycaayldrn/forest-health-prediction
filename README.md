@@ -49,6 +49,16 @@ This project aims to predict forest health status based on environmental and tre
     - Balanced dataset classes using SMOTE and weighted random forests.
     - Evaluated model performance with accuracy, precision, recall, F1-score, and confusion matrices.
     - Visualized feature importances and model comparison results.
+ 
+- **Model Selection and Evaluation:**
+
+  Several models were tested, including Logistic Regression, Decision Tree, and Random Forest Classifier.
+  
+  After evaluation:
+    - Random Forest consistently achieved higher accuracy, macro-averaged precision, and recall compared to other models.
+    - Random Forest is robust to overfitting, handles feature importance, and performs well even with imbalanced or noisy data.
+    - Feature importance visualization provided additional interpretability, helping to understand which factors most influence forest health.
+  Thus, Random Forest was selected as the best-performing model for this prediction task.
 
 - **Performance:**
     - Achieved approximately **66%** overall accuracy with optimized Random Forest.
